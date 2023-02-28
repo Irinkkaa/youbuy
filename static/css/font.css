@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'Andada Pro-400', serif;
+    src: url(../fonts/AndadaPro-reg-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family:'Andada Pro-600', serif;
+    src: url(../fonts/AndadaPro-semiboc-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family:'Andada Pro-700', serif;
+    src: url(../fonts/AndadaPro-bolt700c-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-400', sans-serif;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-700', sans-serif;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-500', sans-serif;;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Anek Malayalam', sans-serif;;
+    src: url(../fonts/AnekMalayalam-VariableFont_wdth\,wght.ttf);
+}
